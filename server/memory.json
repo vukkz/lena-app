@@ -1,10 +1,7 @@
 {
-  "default": {
-    "notes": [
-      "hi lena!!",
-      "hi lena!"
-    ],
-    "mood": "neutral",
-    "points": 3
-  }
+	"default": {
+		"notes": [],
+		"mood": "neutral",
+		"points": 3
+	}
 }
